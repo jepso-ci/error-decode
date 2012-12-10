@@ -1,0 +1,13 @@
+{
+  "name": "error-decode",
+  "repo": "mocha-ci/error-decode",
+  "description": "Decode an error encoded by error-encode",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
